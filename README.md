@@ -1,6 +1,8 @@
 # drunkenstrawberry
 The home of the Drunken Strawberry Emoji
 
+![Drunken Strawberry Emoji](https://github.com/SqyD/drunkenstrawberry/raw/main/drunkenstrawberry_small.jpg)
+
 ### What
 Here you can find the original vector design files as well as a couple of derivative version of the Drunken Strawberry Emoji. I'm releasing this as under a non-restrictive Creative Commoms Zero License so you're basically free to use it in any way you like. see the included LICENSE file for details.
 
